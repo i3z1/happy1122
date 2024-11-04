@@ -1,4 +1,4 @@
-echo "# happybirthday" >> README.md
+echo "# happybirthday1" >> README.md
 git init
 git add .
 git commit -m "first commit"
